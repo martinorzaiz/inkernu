@@ -1,0 +1,37 @@
+
+
+header {
+	width: 100%;
+	height: 200px;
+	margin: 0;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+	margin: 0;
+}
+
+.grid .unit:first-child {
+padding-left: 0px;
+}
+
+.grid .unit {
+padding: 0px;
+}
+
+.grid .unit:last-child {
+padding-right: 0px;
+}
+
+.img {
+	height: 380px;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.main-text {
+	padding: 30px;
+}
